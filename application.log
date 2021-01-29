@@ -1,0 +1,30 @@
+2021-01-29 15:34:06,609  INFO [main] LoginPageTest:28 - ****************************** Starting test cases execution  *****************************************
+2021-01-29 15:34:17,192  INFO [main] LoginPageTest:31 - entering application URL
+2021-01-29 15:34:17,197  WARN [main] LoginPageTest:32 - Hey this just a warning message
+2021-01-29 15:34:17,197 FATAL [main] LoginPageTest:33 - hey this is just fatal error message
+2021-01-29 15:34:17,197 DEBUG [main] LoginPageTest:34 - this is debug message
+2021-01-29 15:34:17,210  INFO [main] LoginPageTest:41 - ****************************** starting test case *****************************************
+2021-01-29 15:34:17,211  INFO [main] LoginPageTest:42 - ****************************** freeCrmTitleTest *****************************************
+2021-01-29 15:34:17,223  INFO [main] LoginPageTest:48 - ****************************** ending test case *****************************************
+2021-01-29 15:34:17,223  INFO [main] LoginPageTest:49 - ****************************** freeCrmTitleTest *****************************************
+2021-01-29 15:34:17,849  INFO [main] LoginPageTest:86 - ****************************** Browser is closed *****************************************
+2021-01-29 15:34:17,855  INFO [main] LoginPageTest:28 - ****************************** Starting test cases execution  *****************************************
+2021-01-29 15:34:27,034  INFO [main] LoginPageTest:31 - entering application URL
+2021-01-29 15:34:27,035  WARN [main] LoginPageTest:32 - Hey this just a warning message
+2021-01-29 15:34:27,036 FATAL [main] LoginPageTest:33 - hey this is just fatal error message
+2021-01-29 15:34:27,037 DEBUG [main] LoginPageTest:34 - this is debug message
+2021-01-29 15:34:27,043  INFO [main] LoginPageTest:56 - ****************************** starting test case *****************************************
+2021-01-29 15:34:27,045  INFO [main] LoginPageTest:57 - ****************************** freeCrmLogoTest *****************************************
+2021-01-29 15:34:27,142  INFO [main] LoginPageTest:62 - ****************************** ending test case *****************************************
+2021-01-29 15:34:27,142  INFO [main] LoginPageTest:63 - ****************************** freeCrmLogoTest ******************************************
+2021-01-29 15:34:27,752  INFO [main] LoginPageTest:86 - ****************************** Browser is closed *****************************************
+2021-01-29 15:34:27,755  INFO [main] LoginPageTest:28 - ****************************** Starting test cases execution  *****************************************
+2021-01-29 15:34:36,546  INFO [main] LoginPageTest:31 - entering application URL
+2021-01-29 15:34:36,547  WARN [main] LoginPageTest:32 - Hey this just a warning message
+2021-01-29 15:34:36,548 FATAL [main] LoginPageTest:33 - hey this is just fatal error message
+2021-01-29 15:34:36,548 DEBUG [main] LoginPageTest:34 - this is debug message
+2021-01-29 15:34:36,551  INFO [main] LoginPageTest:70 - ****************************** starting test case *****************************************
+2021-01-29 15:34:36,551  INFO [main] LoginPageTest:71 - ****************************** LoginTest **************************************************
+2021-01-29 15:34:46,779  INFO [main] LoginPageTest:75 - ****************************** ending test case *****************************************
+2021-01-29 15:34:46,779  INFO [main] LoginPageTest:76 - ****************************** LoginTest **************************************************
+2021-01-29 15:34:47,453  INFO [main] LoginPageTest:86 - ****************************** Browser is closed *****************************************

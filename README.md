@@ -3,9 +3,7 @@
 Page Object Model (POM) Design With Selenium WebDriver:
 
 +Complete Page Object Model (POM) using Page Factory in Selenium
-+Learn Page Object Model Step by Step
 +POM design - Architecture & Pattern
-+What is Page Chaining Model
 +Use of PageFactory API in Selenium
 
 =================================================
